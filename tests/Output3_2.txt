@@ -1,0 +1,23 @@
+function average: 229.857
+Container contains 4 elements.
+
+feature film:
+	title: Harry_Potter
+	year: 2002
+	director: Chris_Columbus
+
+cartoon film:
+	title: Three_cats
+	year: 2017
+	type: plasticine
+
+documentary film:
+	title: Children_of_HSE
+	year: 2021
+	duration: 176
+
+feature film:
+	title: sqsqsq_dwdwd
+	year: 2018
+	director: dwodwd_wdwd
+

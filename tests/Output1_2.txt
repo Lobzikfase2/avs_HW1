@@ -1,0 +1,13 @@
+function average: 167
+Container contains 2 elements.
+
+feature film:
+	title: Harry_Potter
+	year: 2002
+	director: Chris_Columbus
+
+feature film:
+	title: Children_of_HSE
+	year: 2021
+	director: 176
+
